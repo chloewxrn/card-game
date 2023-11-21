@@ -24,3 +24,9 @@ Ali: c5 cK dA s6 sK
 6. In each round, the player with the highest point wins that round. If there is a tie, both players win.
 7. The point is chosen from the suit that gives the highest point (study the sample run).
 8. At the end of the game, the player with the highest score is declared the winner.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+1.JavaFx Library Version
+- JavaFX Windows SDK 11.0.2
+// our program can be run from the Command Prompt
